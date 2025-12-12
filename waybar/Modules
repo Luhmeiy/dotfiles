@@ -97,7 +97,7 @@
     // "format": "  {:%I:%M %p}", // AM PM format
 	"locale": "pt_BR.utf8",
     "format": "  {:L%H:%M}",// 24H
-	"format-alt": "  {:L%H:%M    %Y, %d de %B, %A}",
+	"format-alt": "  {:L%H:%M    %d de %B de %Y, %A}",
 	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
 	"calendar": {
 		"mode": "monthqq",
